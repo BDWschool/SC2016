@@ -8,7 +8,7 @@ What did you learn? What do you still want to learn?
 
 Conclusions
 
-Your test has the steps:
+Your test should have these steps:
 Question
 Prediction
 Experiment
@@ -16,7 +16,7 @@ Record data
 Results
 Conclusion
 
-After an experiment, draw a conclusion. Explain what you learned. Did it answer your questions? Tell about what happened in your test. Did it match your prediction?
+After an experiment, draw a conclusion. Explain what you learned. Did it answer your questions? Explain what happened in your test. Did it match your prediction?
 
 Your conclusion also tells about your experiment. Did it work well? Could you make it better next time?
 
@@ -38,7 +38,7 @@ After an experiment, you tell the answer to your science question. This is calle
 
 Be sure your conclusion is reasonable. Only tell what really happened.
 
-Sometimes the results will not match your hypothesis. That's OK. This happens to the best scientists, too. But do not change your hypothesis. Instead, tell why you think you did not get the results you expected.
+Sometimes the results will not match your hypothesis. That's OK. This happens to the best scientists, too. But do not change your hypothesis. Instead, describe why you think you did not get the results you expected.
 
 Your conclusion will also tell about your experiment. Did it work? How could you do it better?
 
