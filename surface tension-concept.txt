@@ -1,6 +1,6 @@
 Water has a special feature called "cohesion". The atoms of water act like glue and try to stick to each other and other things. We call this "surface tension". 
 
-You can see this by looking at a glass/ of water. Where the surface of the water meets the edge of the glass/bottle, it curves up. 
+You can see this by looking at a glass/bottle of water. Where the surface of the water meets the edge of the glass/bottle, it curves up. 
 
 If you carefully fill a glass the water will form a bubble higher than the top of the glass. 
 
