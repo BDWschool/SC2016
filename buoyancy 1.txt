@@ -1,0 +1,9 @@
+Water is a liquid. Things can go in it.
+
+The balloon floats in water.
+
+The egg sinks in water.
+
+The fish doesn't float or sink. It hovers in water.
+
+This water has salt. Now, the egg can float.
