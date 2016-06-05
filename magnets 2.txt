@@ -1,15 +1,15 @@
 How do magnets work?
 
-Magnets can move things without touching them!
+cap: Magnets can move things without touching them!
 
-Magnets can pull metal.
+cap: Magnets can pull metal.
 
-Magnets push or pull other magnets.
+cap: One end of a magnet is north. 
 
-One end of a magnet is north. 
-The other end is south.
+cap: The other end is south.
 
-North and south pull together.
-Two norths or two souths push each other away. 
+cap: North and south pull together.
 
-Earth is a magnet too! A compass always points north and south. 
+cap: Two norths or two souths push each other away. 
+
+cap: Earth is a magnet too! A compass always points north and south. 
