@@ -1,0 +1,3 @@
+You've made a simple compass! The key to making your compass work is rubbing the magnetic poles of your magnet on opposite ends of the paperclip. When you rub the paperclip with your magnet, you magnetize the paperclip itself.
+
+For the compass to work, it also needs to be able to turn freely. By floating this device on the water's surface, you removed a lot of friction (as opposed to setting it on a countertop or table). Once floating on the water, the Earth's magnetic field (caused by the magnetic materials nickel and iron in the Earth's core) pull at the opposite poles of the paperclip.
