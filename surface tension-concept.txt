@@ -1,7 +1,9 @@
-Water has a special feature called "cohesion". The atoms of water act like glue and try to stick to each other and other things. We call this "surface tension". 
+Water has a special feature called "cohesion". The molecules of water act like glue and try to stick to each other and other things. We call this "surface tension". 
 
 You can see this by looking at a glass/bottle of water. Where the surface of the water meets the edge of the glass/bottle, it curves up. 
 
-If you carefully fill a glass the water will form a bubble higher than the top of the glass. 
+Surface tension can be so strong that some heavy things can even sit on the surface of water without breaking it. If you look closely, the water will curve near the thing too.
 
-Surface tension can be so strong that some things can rest on the surface of the water without breaking it. 
+If you carefully fill the glass, the water will form a dome higher than the top of the glass. The water bonds together and doesn't want to let go of other water. 
+
+Water drops on a window are bonding together to form domes too. When two drops get close, they join to make a bigger drop. They keep trying to bond with other drops until they're too heavy, then they run down the window.
